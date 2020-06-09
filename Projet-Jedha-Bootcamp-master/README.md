@@ -1,4 +1,4 @@
-# Projets Jedha Bootcamp !!!
+# Projets "sandbox" pour Jedha Bootcamp 
 
 ## Projet Fondamentaux
 
