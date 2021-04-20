@@ -33,6 +33,10 @@ Dans ce projet, nous allons produire des KMeans et DBSCAN dans le monde actuel. 
 Dataset : https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-aug14.csv
 
 
+
+
+##### Licence ouverte
+
     This folder and its content is part of Cours Jedha.
 
     Cours Jedha is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
