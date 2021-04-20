@@ -1,4 +1,4 @@
-# Projets "sandbox" pour Jedha Bootcamp 
+# Projets "sandbox" utilisés dans le cadre de mes cours
 
 ## Projet Fondamentaux
 
@@ -31,3 +31,12 @@ Dataset : https://github.com/Saadorj/DataScienceProjects/blob/master/conversion_
 Dans ce projet, nous allons produire des KMeans et DBSCAN dans le monde actuel. Nous allons imaginer que nous sommes Uber et que nous souhaitons donner des recommandations quant aux endroits où les chauffeurs devraient se trouver pour maximiser leurs chances de trouver une course. 
 
 Dataset : https://github.com/fivethirtyeight/uber-tlc-foil-response/blob/master/uber-trip-data/uber-raw-data-aug14.csv
+
+
+    This folder and its content is part of Cours Jedha.
+
+    Cours Jedha is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    Cours Jedha is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty or MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along with Cours Jedha.  If not, see <https://www.gnu.org/licenses/>
